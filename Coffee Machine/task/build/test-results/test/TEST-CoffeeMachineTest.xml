@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CoffeeMachineTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-27T00:51:56" hostname="DESKTOP-SNEU2I7" time="0.532">
+  <properties/>
+  <testcase name="start" classname="CoffeeMachineTest" time="0.532"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Write how many cups of coffee you will need:
+>> 25
+For 25 cups of coffee you will need:
+5000 ml of water
+1250 ml of milk
+?[1;31m
+Start test 2?[0m
+Write how many cups of coffee you will need:
+>> 125
+For 125 cups of coffee you will need:
+25000 ml of water
+6250 ml of milk
+?[1;31m
+Start test 3?[0m
+Write how many cups of coffee you will need:
+>> 1
+For 1 cups of coffee you will need:
+200 ml of water
+50 ml of milk
+?[1;31m
+Start test 4?[0m
+Write how many cups of coffee you will need:
+>> 123
+For 123 cups of coffee you will need:
+24600 ml of water
+6150 ml of milk
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
